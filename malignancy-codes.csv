@@ -1,4 +1,4 @@
-Variable Name,Code,Code Category,Code Type,Description,Care Setting,Minimum Gap (Days),Maximum Gap (Days)
+VariableName,Code,CodeCategory,CodeType,Description,CareSetting,MinimumGap,MaximumGap
 Lung cancer,162.2,DX,9,Malignant neoplasm of main bronchus,NA,,
 Lung cancer,162.3,DX,9,"Malignant neoplasm of upper lobe, bronchus or lung",NA,,
 Lung cancer,162.4,DX,9,"Malignant neoplasm of middle lobe, bronchus or lung",NA,,
